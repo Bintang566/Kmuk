@@ -7,7 +7,7 @@ This software protects you assemblies by encrypting each byte with strong XOR al
 - Disable your running AV, especially sample sending and real-time protection functions
 - Download the release file, execute and choose a file to crypt. It`ll be saved as Crypted.exe
 - now go to https://freeobfuscator.com/ , upload Crypted.exe and save the result
-- visit antiscan.me or kleenscan.com (❗❗❗DON`T UPLOAD TO VIRUSTOTAL❗❗❗) and scan the final file
+- visit antiscan.me or kleenscan.com (❗❗❗DO NOT UPLOAD TO VIRUSTOTAL❗❗❗) and scan the final file
 - if you don`t like the result, obfuscate with other service, wait for stub update or edit the source code of project to make stub FUD again
 
 # Please leave ⭐ to this project if you like it
