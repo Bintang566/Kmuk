@@ -10,6 +10,6 @@ This software protects you assemblies by encrypting each byte with strong XOR al
 - visit antiscan.me or kleenscan.com (❗❗❗NOT TO THE VIRUSTOTAL❗❗❗) and scan the final file
 - if you don`t like the result, obfuscate with other service, wait for stub update or edit the source code of project to make stub FUD again
 
-# Please leave the star⭐ to this project if you like it
+# Please leave the star⭐⭐ to this project if you like it
 # You can also support me by donating to my btc wallet ✔️ bc1qjj8ft6xcyztec57y49t2nj9ezllkdt7y9gm46g ❤️
 ![image](https://user-images.githubusercontent.com/113328311/190917862-fbe59cfd-0260-4e46-96ca-faa6a8e08dcb.png)
